@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SalaryPredictor7125'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2FCC9D7FF0C645A4B05558A50DBF282E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16C51371998A492F8E0FF31D2866D98F }}
